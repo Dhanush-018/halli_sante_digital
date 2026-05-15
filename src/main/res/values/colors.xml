@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary">#E65100</color> <!-- Vibrant Orange -->
+    <color name="primary_variant">#EF6C00</color>
+    <color name="secondary">#2E7D32</color> <!-- Vibrant Green -->
+    <color name="background">#FFF8E1</color> <!-- Light Yellow/Cream background for traditional feel -->
+</resources>

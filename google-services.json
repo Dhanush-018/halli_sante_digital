@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "68965050946",
+    "project_id": "halli-sante-digitial",
+    "storage_bucket": "halli-sante-digitial.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68965050946:android:32edebdafd48249fa1dbdb",
+        "android_client_info": {
+          "package_name": "com.example.halli_sante_digital"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbLE5XNjQDysrZwvIkUeFzbjgr5ivDtv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
